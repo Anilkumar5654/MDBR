@@ -1,2 +1,0 @@
-# MDBR
-Movie database project
